@@ -1,0 +1,8 @@
+<resources>
+    <!-- 刘海屏适配 -->
+    <style name="Theme.SelfieLight">
+        <item name="android:windowLayoutInDisplayCutoutMode">
+            shortEdges
+        </item>
+    </style>
+</resources> 
